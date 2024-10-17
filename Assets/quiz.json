@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "questionText": "What is the default scripting language in Unity?",
+        "answers": [
+          "JavaScript",
+          "C#",
+          "Python",
+          "Ruby"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which component is used to move objects in Unity?",
+        "answers": [
+          "Collider",
+          "Rigidbody",
+          "Transform",
+          "Animator"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "What is the purpose of Time.deltaTime in Unity?",
+        "answers": [
+          "To control frame rate",
+          "To calculate distance",
+          "To measure frame time",
+          "To detect collision"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What is the main function used to detect collision in Unity?",
+        "answers": [
+          "OnColliderEnter",
+          "OnCollisionStay",
+          "OnCollisionEnter",
+          "OnTriggerEnter"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What is the Unity tool used for version control?",
+        "answers": [
+          "Collaborate",
+          "GitHub",
+          "Plastic SCM",
+          "Unity Cloud"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  }
+  
